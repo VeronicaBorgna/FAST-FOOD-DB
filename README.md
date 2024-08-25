@@ -7,7 +7,7 @@ Para poder dar respuesta a su requerimiento, se consolidó una base de datos cen
 
 ### Modelo Semántico
 
-![ModeloSemantico](Imagenes\modeloSemantico.png)
+![ModeloSemantico](Imagenes/modeloSemantico.png)
 
 ### Desarrollo del proyecto
 
